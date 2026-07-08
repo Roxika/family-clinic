@@ -6,7 +6,7 @@ from google.genai import types
 # 1. 基础配置与页面 UI
 # ==========================================
 st.set_page_config(page_title="我们的家庭缓冲带", page_icon="💗")
-st.title("💗 家庭专属心理与卫生顾问")
+st.title("💗 家庭顾问")
 st.markdown("亲爱的，遇到分歧没关系，我们听听医生怎么说。")
 
 # ==========================================
